@@ -60,7 +60,8 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 1.Data head
 
-![s1](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119104282/62dfdddc-d306-4326-a89a-6054c3104027)
+![s1](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119104282/538f7dbf-b0d5-4e45-80a8-b45e947390cc)
+
 
 2.Data set info
 ![s2](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119104282/62470c4d-0185-427f-8f33-b016092c13eb)
