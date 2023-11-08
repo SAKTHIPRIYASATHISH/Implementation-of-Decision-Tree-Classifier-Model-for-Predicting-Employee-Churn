@@ -58,6 +58,46 @@ accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
+1.Data head
+
+![s1](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119104282/62dfdddc-d306-4326-a89a-6054c3104027)
+
+2.Data set info
+![s2](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119104282/62470c4d-0185-427f-8f33-b016092c13eb)
+
+3.Null dataset
+
+![s3](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119104282/89315642-f25a-44af-986e-06c6fb8dd39f)
+
+
+4.Values count from left column
+
+![s4](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119104282/32cc772a-9540-4f2b-aa40-8e6f935ccf1c)
+
+5.Dataset transformed head
+
+![s5](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119104282/7ba7306f-c41e-4953-a179-3091d51dcf95)
+
+6.X.head
+
+![s6](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119104282/b05b4340-3f14-492d-85b8-d7eb8c311773)
+
+7.Accuracy
+![s7](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119104282/d6b54e08-8ed9-49fd-b849-735b739be69f)
+
+8.Data prdiction
+![s8](https://github.com/SAKTHIPRIYASATHISH/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119104282/794fc514-e227-459d-ada3-6a7a4d093d61)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
